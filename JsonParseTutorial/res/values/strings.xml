@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">JsonParse Tutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ratinglabel">"Rating : "</string>
+    <string name="countrylabel">"Hall : "</string>
+    <string name="populationlabel">"Location : "</string>
+
+</resources>
